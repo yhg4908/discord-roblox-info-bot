@@ -94,3 +94,6 @@ embed = discord.Embed(
 ## 라이선스
 
 MIT License - 자유롭게 수정 및 배포 가능
+
+`Made by lite studio`
+`Copyright 2025. lite studio All rights reserved.`
