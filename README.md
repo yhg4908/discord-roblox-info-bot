@@ -1,3 +1,5 @@
+> 현재 로블록스 api 변경으로 작동하지 않습니다.
+
 # Discord Roblox 정보 봇
 
 Discord에서 Roblox 게임과 유저 정보를 실시간으로 확인할 수 있는 봇입니다.
